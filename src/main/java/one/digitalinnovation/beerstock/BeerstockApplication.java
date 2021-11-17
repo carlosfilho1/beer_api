@@ -10,4 +10,7 @@ public class BeerstockApplication {
 		SpringApplication.run(BeerstockApplication.class, args);
 	}
 
+	/*
+	* Realizado a instalação do java 15 Azul.
+	* */
 }
